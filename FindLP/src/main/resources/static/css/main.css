@@ -1,0 +1,78 @@
+.container{
+    max-width: 1000px;
+	min-width: 900px;
+    margin-top: 50px;
+}
+.navbar .container{
+	max-width: 80%;
+	min-width: 900px;
+	padding: 5px;
+	margin: 0 auto;
+	justify-content: center;
+	
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.navbar.navbar-expand-lg.bg-body-tertiary{
+    padding: 10px;
+}
+.navbar.navbar-expand-lg.bg-body-tertiary > .container-fluid{
+    max-width: 1400px;
+}
+.navbar .row{
+	width: 100%;
+	display: flex;
+	align-items: center;
+}
+.navbar .row > .col{
+	width: 15%;
+}
+.navbar .row > .col-6{
+	width: 65%;
+}
+.navbar .row > .col-3{
+	width: 20%;
+}
+
+.navbar-nav{
+    margin-left: auto;
+	flex-direction: row;
+}
+.navbar-brand{
+	display: flex;
+	item-aligns: center;
+}
+.navbar-brand > .logo{
+    font-size: 30px;
+    padding-left:10px;
+}
+.col > .sub_logo{
+	display: flex;
+	font-weight: bold;
+	font-size: 20px;
+}
+.navbar-nav > .nav-item{
+    font-size: 20px;
+    margin-right: 30px;
+}
+.d-flex{
+	padding: 5px;
+	margin-bottom: 0px;
+}
+.d-flex > .form-control.me-2{
+	width: 90%;
+	height: 50px;
+}
+
+.row.row-cols-1.row-cols-md-2.g-4 > .col{
+    padding-left:20px;
+    padding-right:20px;
+}
+.card > .card-img-top{
+    height: 200px;
+}
+a{
+	text-decoration: none;
+	color: inherit;	
+}

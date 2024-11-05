@@ -1,0 +1,114 @@
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" th:href="@{/css/bootstrap.min.css}" />
+    <link rel="stylesheet" th:href="@{/css/bootstrap-grid.min.css}" />
+    <script th:src="@{/js/bootstrap.bundle.min.js}"></script>
+    <script th:src="@{/js/bootstrap.min.js}"></script>
+
+    <link rel="stylesheet" th:href="@{/css/main.css}" />
+
+    <title></title>
+</head>
+<body>
+	<!-- 네비게이션 바 -->
+	<nav class="navbar navbar-expand-lg bg-body-tertiary">
+		<div class="container text-center">
+			<div class="row">
+				<div class="col">
+					<!-- 사이트명 -->
+					<a class="navbar-brand" th:href="@{/findlp/main}">
+						<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-check-square" viewBox="0 0 16 16">
+  							<path d="M14 1a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1zM2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2z"/>
+  							<path d="M10.97 4.97a.75.75 0 0 1 1.071 1.05l-3.992 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425z"/>
+						</svg>
+						<span class="logo">FindLP</span>
+					</a>
+					<span class="sub_logo">Find Low Price</span>
+				</div>
+				<div class="col-6">
+				    <!-- 검색창 -->
+				    <form class="d-flex" th:action="@{/findlp/search}" th:method="post" id="searchForm">
+				        <input class="form-control me-2" type="search" id="searchInput" name="query" placeholder="원하시는 상품을 검색하세요." aria-label="Search">
+				        <button class="btn btn-success" type="submit">Search</button>
+				    </form>
+				</div>
+				<div class="col-3">
+					<!-- 항목들 -->
+					<ul class="navbar-nav">
+						<li class="nav-item">
+							<a class="nav-link active" aria-current="page" href="#">Home</a>
+						</li>
+						<button type="button" class="btn btn-dark dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">MyPage</button>
+						<ul class="dropdown-menu">
+                			<li><a class="dropdown-item" href="#">Profile</a></li>
+                			<li><a class="dropdown-item" href="#">Settings</a></li>
+                			<li><a class="dropdown-item" href="#">Logout</a></li>
+            			</ul>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</nav>
+
+    <div class="container">
+      <!-- 카테고리 카드 -->
+      <div class="container">
+        <div class="row row-cols-1 row-cols-md-2 g-4">
+          <div class="col">
+          	<form th:method="POST" th:action="@{/findlp/list/electro}">
+          	<a href="#" onclick="this.closest('form').submit(); return false;">
+          		<div class="card">
+              		<img th:src="@{/image/electro_list.png}" class="card-img-top" alt="전자제품 이미지">
+              		<div class="card-body">
+                		<h5 class="card-title">전자제품</h5>
+                	<p class="card-text">TV, 냉장고, 컴퓨터 등</p>
+              	</div>
+            	</div>
+            </a>
+          	</form>
+          </div>
+          <div class="col">
+            <form th:method="POST" th:action="@{/findlp/list/living}">
+            <a href="#" onclick="this.closest('form').submit(); return false;">
+            	<div class="card">
+              		<img th:src="@{/image/living_list.png}" class="card-img-top" alt="생활용품 이미지">
+              		<div class="card-body">
+                		<h5 class="card-title">생활용품</h5>
+                		<p class="card-text">주방, 욕실, 침실 등</p>
+              		</div>
+            	</div>
+            </a>
+            </form>
+          </div>
+          <div class="col">
+            <form th:method="POST" th:action="@{/findlp/list/fashion}">
+            <a href="#" onclick="this.closest('form').submit(); return false;">
+            	<div class="card">
+              		<img th:src="@{/image/fashion_list.png}" class="card-img-top" alt="패션 이미지">
+              		<div class="card-body">
+                		<h5 class="card-title">패션/의류</h5>
+                		<p class="card-text">남성/여성의류, 액세서리 등</p>
+              		</div>
+            	</div>
+            </a>
+            </form>
+          </div>
+          <div class="col">
+            <form th:method="POST" th:action="@{/findlp/list/sports}">
+            <a href="#" onclick="this.closest('form').submit(); return false;">
+            	<div class="card">
+              		<img th:src="@{/image/sports_list.png}" class="card-img-top" alt="레저용품 이미지">
+              		<div class="card-body">
+                		<h5 class="card-title">레저용품</h5>
+                		<p class="card-text">스포츠, 캠핑 등</p>
+              		</div>
+            	</div>
+            </a>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+</body>
+</html>
