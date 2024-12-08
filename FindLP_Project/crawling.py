@@ -43,7 +43,7 @@ def save_dict(name, str_price, int_price, link, image_src):
 def save_file():
     # JSON 파일로 저장
     try:
-        file_name = "C:/Users/admin/Desktop/FindLP/src/main/resources/static/output.json"
+        file_name = "C:/Users/admin/Desktop/FindLP_Project/output.json"
         with open(file_name, "w", encoding="utf-8") as f:
             json.dump(results, f, ensure_ascii=False, indent=4)
     except Exception as e:

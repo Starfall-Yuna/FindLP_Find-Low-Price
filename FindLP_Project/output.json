@@ -1,0 +1,282 @@
+[
+    {
+        "name": "스타벅스 데비 세라믹 머그컵 414ml",
+        "price": "13,370원",
+        "int_price": 13370,
+        "link": "https://prod.danawa.com/info/?pcode=30775112&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=17232429",
+        "image_src": "https://img.danawa.com/prod_img/500000/112/775/img/30775112_1.jpg?shrink=130:130&_v=20240423111522"
+    },
+    {
+        "name": "스타벅스 시티컵",
+        "price": "24,010원",
+        "int_price": 24010,
+        "link": "https://prod.danawa.com/info/?pcode=30773774&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=17232429",
+        "image_src": "https://img.danawa.com/prod_img/500000/774/773/img/30773774_1.jpg?shrink=130:130&_v=20231211104939"
+    },
+    {
+        "name": "스타벅스 SS 블랙 앤 골드 스탠리 보온병 500ml",
+        "price": "24,060원",
+        "int_price": 24060,
+        "link": "https://prod.danawa.com/info/?pcode=13186994&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=17235635",
+        "image_src": "https://img.danawa.com/prod_img/500000/994/186/img/13186994_1.jpg?shrink=130:130&_v=20221102110545"
+    },
+    {
+        "name": "스타벅스 돌체구스토 커피 12캡슐 PLL 그레이 텀블러[10박스]",
+        "price": "79,900원",
+        "int_price": 79900,
+        "link": "https://prod.danawa.com/info/?pcode=55948886&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=1623162",
+        "image_src": "https://img.danawa.com/prod_img/500000/886/948/img/55948886_1.jpg?shrink=130:130&_v=20240609073709"
+    },
+    {
+        "name": "스타벅스 브렉퍼스트 블렌드 미디엄 로스트 1.13kg",
+        "price": "29,980원",
+        "int_price": 29980,
+        "link": "https://prod.danawa.com/info/?pcode=3202346&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=1623162",
+        "image_src": "https://img.danawa.com/new/noData/img/noImg_160.gif"
+    },
+    {
+        "name": "네슬레 스타벅스 앳홈 베란다 블렌드 12개입",
+        "price": "7,050원",
+        "int_price": 7050,
+        "link": "https://prod.danawa.com/info/?pcode=7767070&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=1623162",
+        "image_src": "https://img.danawa.com/new/noData/img/noImg_160.gif"
+    },
+    {
+        "name": "스타벅스 그린 사이렌 도트 머그 237ml",
+        "price": "11,000원",
+        "int_price": 11000,
+        "link": "https://prod.danawa.com/info/?pcode=28184657&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=17232429",
+        "image_src": "https://img.danawa.com/new/noData/img/noImg_160.gif"
+    },
+    {
+        "name": "스타벅스 더블샷 에스프레소&크림 200ml",
+        "price": "360원",
+        "int_price": 360,
+        "link": "https://prod.danawa.com/info/?pcode=2280323&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=1623162",
+        "image_src": "https://img.danawa.com/new/noData/img/noImg_160.gif"
+    },
+    {
+        "name": "네슬레 스타벅스 앳홈 네스프레소 골라담기 (해외)",
+        "price": "5,290원",
+        "int_price": 5290,
+        "link": "https://prod.danawa.com/info/?pcode=12184163&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=1623162",
+        "image_src": "https://img.danawa.com/new/noData/img/noImg_160.gif"
+    },
+    {
+        "name": "스타벅스 1호점 시애틀 스테인리스 보틀 텀블러591ml",
+        "price": "20,310원",
+        "int_price": 20310,
+        "link": "https://prod.danawa.com/info/?pcode=37868072&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=17232429",
+        "image_src": "https://img.danawa.com/new/noData/img/noImg_160.gif"
+    },
+    {
+        "name": "스타벅스 SS 블랙 탱크 텀블러 503ml",
+        "price": "28,800원",
+        "int_price": 28800,
+        "link": "https://prod.danawa.com/info/?pcode=19730540&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=17235635",
+        "image_src": "https://img.danawa.com/new/noData/img/noImg_160.gif"
+    },
+    {
+        "name": "스타벅스 SS 블랙 데비 머그 414ml",
+        "price": "48,310원",
+        "int_price": 48310,
+        "link": "https://prod.danawa.com/info/?pcode=13578524&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=17232429",
+        "image_src": "https://img.danawa.com/prod_img/500000/524/578/img/13578524_1.jpg?shrink=130:130&_v=20210311182222"
+    },
+    {
+        "name": "스타벅스 세라믹 사이렌 머그컵 414ml",
+        "price": "13,510원",
+        "int_price": 13510,
+        "link": "https://prod.danawa.com/info/?pcode=13280882&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=17232429",
+        "image_src": "https://img.danawa.com/prod_img/500000/882/280/img/13280882_1.jpg?shrink=130:130&_v=20231017093637"
+    },
+    {
+        "name": "스타벅스 SS 스탠리 크림 켄처 텀블러 591ml",
+        "price": "33,190원",
+        "int_price": 33190,
+        "link": "https://prod.danawa.com/info/?pcode=17032136&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=17235635",
+        "image_src": "https://img.danawa.com/prod_img/500000/136/032/img/17032136_1.jpg?shrink=130:130&_v=20220512131536"
+    },
+    {
+        "name": "스타벅스 2024 다이어리 플래너",
+        "price": "33,880원",
+        "int_price": 33880,
+        "link": "https://prod.danawa.com/info/?pcode=30148979&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=19340845",
+        "image_src": "https://img.danawa.com/prod_img/500000/979/148/img/30148979_1.jpg?shrink=130:130&_v=20231123173701"
+    },
+    {
+        "name": "네슬레 스타벅스 앳홈 에스프레소 로스트 12개입",
+        "price": "7,740원",
+        "int_price": 7740,
+        "link": "https://prod.danawa.com/info/?pcode=7766683&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=1623162",
+        "image_src": "https://img.danawa.com/prod_img/500000/683/766/img/7766683_1.jpg?shrink=130:130&_v=20190725104205"
+    },
+    {
+        "name": "스타벅스 그린 사이렌 클래식 머그 355ml",
+        "price": "26,360원",
+        "int_price": 26360,
+        "link": "https://prod.danawa.com/info/?pcode=28185968&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=17232429",
+        "image_src": "https://img.danawa.com/prod_img/500000/968/185/img/28185968_1.jpg?shrink=130:130&_v=20230912111428"
+    },
+    {
+        "name": "스타벅스 캡슐커피 10캡슐 골라담기 by 네스프레소[1박스]",
+        "price": "5,750원",
+        "int_price": 5750,
+        "link": "https://prod.danawa.com/info/?pcode=46273814&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=1623162",
+        "image_src": "https://img.danawa.com/prod_img/500000/814/273/img/46273814_1.jpg?shrink=130:130&_v=20240407082631"
+    },
+    {
+        "name": "스타벅스 [카드형] 상품권",
+        "price": "10,000원",
+        "int_price": 10000,
+        "link": "https://prod.danawa.com/info/?pcode=13394348&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=19231551",
+        "image_src": "https://img.danawa.com/prod_img/500000/348/394/img/13394348_1.jpg?shrink=130:130&_v=20210218093923"
+    },
+    {
+        "name": "스타벅스 카페 아메리카노 교환권",
+        "price": "4,100원",
+        "int_price": 4100,
+        "link": "https://prod.danawa.com/info/?pcode=3014631&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=19231555",
+        "image_src": "https://img.danawa.com/prod_img/500000/631/014/img/3014631_1.jpg?shrink=130:130&_v=20220113165021"
+    },
+    {
+        "name": "스타벅스 카페 베로나 1.13kg",
+        "price": "27,710원",
+        "int_price": 27710,
+        "link": "https://prod.danawa.com/info/?pcode=5152237&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=1623162",
+        "image_src": "https://img.danawa.com/prod_img/500000/237/152/img/5152237_1.jpg?shrink=130:130&_v=20200721170659"
+    },
+    {
+        "name": "스타벅스 2024 캘린더",
+        "price": "25,960원",
+        "int_price": 25960,
+        "link": "https://prod.danawa.com/info/?pcode=33200684&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=19240843",
+        "image_src": "https://img.danawa.com/new/noData/img/noImg_160.gif"
+    },
+    {
+        "name": "스타벅스 카페라떼 270ml",
+        "price": "2,550원",
+        "int_price": 2550,
+        "link": "https://prod.danawa.com/info/?pcode=12889886&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=1623162",
+        "image_src": "https://img.danawa.com/new/noData/img/noImg_160.gif"
+    },
+    {
+        "name": "스타벅스 DT 스탠리 스트로 보온병 591ml",
+        "price": "24,920원",
+        "int_price": 24920,
+        "link": "https://prod.danawa.com/info/?pcode=10568808&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=17235635",
+        "image_src": "https://img.danawa.com/new/noData/img/noImg_160.gif"
+    },
+    {
+        "name": "스타벅스 에스프레소 로스트 홀빈 1.13kg",
+        "price": "35,750원",
+        "int_price": 35750,
+        "link": "https://prod.danawa.com/info/?pcode=13113731&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=1623162",
+        "image_src": "https://img.danawa.com/new/noData/img/noImg_160.gif"
+    },
+    {
+        "name": "스타벅스 APP전용 e카드 교환권",
+        "price": "20,000원",
+        "int_price": 20000,
+        "link": "https://prod.danawa.com/info/?pcode=12842300&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=19231551",
+        "image_src": "https://img.danawa.com/new/noData/img/noImg_160.gif"
+    },
+    {
+        "name": "스타벅스 아이스 카페 아메리카노 교환권",
+        "price": "4,100원",
+        "int_price": 4100,
+        "link": "https://prod.danawa.com/info/?pcode=3014609&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=19231555",
+        "image_src": "https://img.danawa.com/new/noData/img/noImg_160.gif"
+    },
+    {
+        "name": "스타벅스 카페라떼 200ml",
+        "price": "1,780원",
+        "int_price": 1780,
+        "link": "https://prod.danawa.com/info/?pcode=6904708&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=1623162",
+        "image_src": "https://img.danawa.com/new/noData/img/noImg_160.gif"
+    },
+    {
+        "name": "스타벅스 대용량 텀블러 910ml",
+        "price": "22,790원",
+        "int_price": 22790,
+        "link": "https://prod.danawa.com/info/?pcode=18663629&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=17235635",
+        "image_src": "https://img.danawa.com/new/noData/img/noImg_160.gif"
+    },
+    {
+        "name": "스타벅스 롱 포크 4p 세트 파우치 제공",
+        "price": "12,320원",
+        "int_price": 12320,
+        "link": "https://prod.danawa.com/info/?pcode=30866654&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=17232425",
+        "image_src": "https://img.danawa.com/new/noData/img/noImg_160.gif"
+    },
+    {
+        "name": "스타벅스 사이렌 하우스 머그 237ml",
+        "price": "18,000원",
+        "int_price": 18000,
+        "link": "https://prod.danawa.com/info/?pcode=35839823&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=17232429",
+        "image_src": "https://img.danawa.com/new/noData/img/noImg_160.gif"
+    },
+    {
+        "name": "스타벅스 캠핑컵 스텐 머그컵",
+        "price": "24,000원",
+        "int_price": 24000,
+        "link": "https://prod.danawa.com/info/?pcode=30795284&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=17232429",
+        "image_src": "https://img.danawa.com/new/noData/img/noImg_160.gif"
+    },
+    {
+        "name": "스타벅스 하우스 블렌드 홀빈 1.13kg",
+        "price": "39,900원",
+        "int_price": 39900,
+        "link": "https://prod.danawa.com/info/?pcode=13473989&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=1623162",
+        "image_src": "https://img.danawa.com/new/noData/img/noImg_160.gif"
+    },
+    {
+        "name": "스타벅스 북미 한정판 화이트 머그컵 추석 명절 집들이 결혼식 돌잔치 선물세트",
+        "price": "21,910원",
+        "int_price": 21910,
+        "link": "https://prod.danawa.com/info/?pcode=33928568&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=17232429",
+        "image_src": "https://img.danawa.com/new/noData/img/noImg_160.gif"
+    },
+    {
+        "name": "스타벅스 파이크 플레이스 로스트 블랙커피 275ml",
+        "price": "1,960원",
+        "int_price": 1960,
+        "link": "https://prod.danawa.com/info/?pcode=6911002&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=1623162",
+        "image_src": "https://img.danawa.com/new/noData/img/noImg_160.gif"
+    },
+    {
+        "name": "스타벅스 스탠리 하우스 보온병 500ml",
+        "price": "35,000원",
+        "int_price": 35000,
+        "link": "https://prod.danawa.com/info/?pcode=28214654&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=17235635",
+        "image_src": "https://img.danawa.com/prod_img/500000/654/214/img/28214654_1.jpg?shrink=130:130&_v=20230913135916"
+    },
+    {
+        "name": "스타벅스 시애틀 세라믹 머그컵 355ml",
+        "price": "12,850원",
+        "int_price": 12850,
+        "link": "https://prod.danawa.com/info/?pcode=31037396&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=17232429",
+        "image_src": "https://img.danawa.com/prod_img/500000/396/037/img/31037396_1.jpg?shrink=130:130&_v=20231211134453"
+    },
+    {
+        "name": "스타벅스 리저브 블랙 푸어오버 드리퍼",
+        "price": "19,980원",
+        "int_price": 19980,
+        "link": "https://prod.danawa.com/info/?pcode=13578218&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=17241725",
+        "image_src": "https://img.danawa.com/prod_img/500000/218/578/img/13578218_1.jpg?shrink=130:130&_v=20210311175107"
+    },
+    {
+        "name": "스타벅스 카페라떼 교환권",
+        "price": "4,600원",
+        "int_price": 4600,
+        "link": "https://prod.danawa.com/info/?pcode=3034444&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=19231555",
+        "image_src": "https://img.danawa.com/prod_img/500000/444/034/img/3034444_1.jpg?shrink=130:130&_v=20220113165525"
+    },
+    {
+        "name": "스타벅스 사이렌 클래식 민트 머그컵 237ml",
+        "price": "17,490원",
+        "int_price": 17490,
+        "link": "https://prod.danawa.com/info/?pcode=53622878&keyword=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4&cate=17232429",
+        "image_src": "https://img.danawa.com/prod_img/500000/878/622/img/53622878_1.jpg?shrink=130:130&_v=20240515082522"
+    }
+]
