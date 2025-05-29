@@ -1,7 +1,7 @@
 # FindLP
 Find_Low_Price / 최저가 조회 쇼핑몰 사이트
 
-< to do list >
+< to do list > ???
 - 이미지 링크 크롤링 css 수정
 - 검색창의 검색 탭 코드 수정
 
